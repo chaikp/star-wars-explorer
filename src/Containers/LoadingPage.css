@@ -1,0 +1,36 @@
+.subheader {
+  font-family: Impact;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.loadingPage {
+  padding: 5px;
+}
+
+.loadingPage a:hover {
+  text-decoration: none;
+}
+
+.loadingAlerts {  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-family: Impact;
+}
+
+.loadingAlerts h4 {  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 10%;
+}
+
+.loadingPills {
+  margin-left: 12px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.loadingSpinner {
+  margin-left: 12px;
+}
