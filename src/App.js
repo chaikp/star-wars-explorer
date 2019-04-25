@@ -49,7 +49,7 @@ class App extends Component {
         }
         <div className="footer fixed-bottom">
             <h5 className="text-white">
-              Created using <a href="https://reactjs.org/">ReactJS</a>. Data provided by <a href="https//swapi.co">swapi.co</a>
+              Created using <a href="https://reactjs.org/">ReactJS</a> and <a href="https://react-redux.js.org/">Redux</a>. Data provided by <a href="https//swapi.co">swapi.co</a>
             </h5>
         </div>
       </div>
